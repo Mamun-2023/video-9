@@ -1,0 +1,8 @@
+#unique {
+  color: palevioletred;
+  border: 2px solid tomato;
+}
+.common {
+  color: blueviolet;
+  border: 3px solid palegreen;
+}
